@@ -1,0 +1,55 @@
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 5% 0%;
+}
+
+h1{
+    font-size: 50px;
+    padding: 2%;
+    font-weight: 700;
+}
+
+form input{
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin: 10px auto;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    padding: 10px;
+
+    
+}
+form select{
+    border: 1px solid black;
+    width: 50%;
+    margin: auto;
+    margin: 10px auto;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    padding: 0px 10px;
+}
+
+button{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin: auto;
+    margin: 10px auto;
+    height: 35px;
+    border-radius: 5px;
+    font-size: large;
+    padding: 0px 10px;
+    background-color: rgb(92, 194, 92);
+    color: white;
+    /* background-color: red; */
+
+}

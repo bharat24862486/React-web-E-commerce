@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20008782/2022/9/16/bb7297b2-a0b6-4880-8cd9-6e47e393b9ca1663309771415AllenSollyMenOliveGreenSlimFitCasualShirt2.jpg",
+      "name": "Allen Solly Man T-Shirt",
+      "price": 599,
+      "brand": "Allen Solly",
+      "category": "Man",
+      "id": 3
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20688866/2022/11/10/c1f8d569-63f1-45d3-a334-607ef45bf6711668065647495MenNavySlimFitSolidFullSleevesCasualShirts2.jpg",
+      "name": " Allen Solly Man Shirt",
+      "price": 899,
+      "brand": "Allen Solly",
+      "category": "Man",
+      "id": 4
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1700944/2019/6/8/488007ef-c65e-4a2f-a92b-65b6846894861559989274078-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+      "name": "HRX by Hrithik Roshan",
+      "price": 500,
+      "brand": "HRX",
+      "category": "Man",
+      "id": 5
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22120556/2023/2/25/31818595-3bda-4e8b-a93b-6cfc566126541677314970376KhushalKwomenEmbroideryKurtaandpalazzowithdupattaset1.jpg",
+      "name": "Kurta",
+      "price": 1999,
+      "brand": "Khushal K",
+      "category": "Women",
+      "id": 6
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16712782/2022/4/14/2afbbc41-329f-4850-8aee-00dccdf641851649922896889-Indo-Era-Solid-Wine-Straight-Kurta-Palazzo-With-Dupatta-Set--1.jpg",
+      "name": "Indo Era",
+      "price": 1079,
+      "brand": "Indo Era",
+      "category": "Women",
+      "id": 7
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11569354/2021/10/25/96e2815f-51eb-48ac-aa20-f64943f861851635163117668-Yufta-Women-Mauve-Ethnic-Motifs-Printed-Regular-Kurta-with-P-1.jpg",
+      "name": " Yufta",
+      "price": 1599,
+      "brand": " Yufta",
+      "category": "Women",
+      "id": 8
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20547000/2022/12/3/0de357cc-39a6-425b-af38-7e6d450eb5251670011863109GoogoGaagaBoysBlackOrangePrintedPureCottonClothingSet1.jpg",
+      "name": "Googo Gaaga",
+      "price": 609,
+      "brand": "Adidas",
+      "category": "Kids",
+      "id": 9
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20007750/2022/9/15/266bf04d-8fbb-4543-9e09-d36dba2bea331663258053482BUMZEEBoysBlueWhiteT-shirtwithPyjamas1.jpg",
+      "name": "BUMZEE",
+      "price": 799,
+      "brand": "Nike",
+      "category": "Kids",
+      "id": 10
+    },
+    {
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21148354/2022/12/10/a83e90ad-ec55-46de-9417-1f70ea70a2981670618545745ClothingSet1.jpg",
+      "name": "JusCubs",
+      "price": 899,
+      "brand": "Puma",
+      "category": "Kids",
+      "id": 11
+    }
+  ]
+}
